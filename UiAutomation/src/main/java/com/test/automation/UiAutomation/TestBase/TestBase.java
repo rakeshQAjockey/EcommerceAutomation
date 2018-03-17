@@ -1,5 +1,7 @@
 package com.test.automation.UiAutomation.TestBase;
 
-public class TestBase {
+public class TestBase 
+{
+	
 
 }
