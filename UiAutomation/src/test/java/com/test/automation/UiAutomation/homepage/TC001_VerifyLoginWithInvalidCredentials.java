@@ -1,5 +1,6 @@
 package com.test.automation.UiAutomation.homepage;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -14,6 +15,7 @@ import com.test.automation.UiAutomation.UiActions.Homepage;
 public class TC001_VerifyLoginWithInvalidCredentials extends TestBase
 
 {
+	public static final Logger log=Logger.getLogger(TC001_VerifyLoginWithInvalidCredentials.class.getName());
 	Homepage homepage;
 @BeforeTest
 public void setup()

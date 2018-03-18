@@ -1,5 +1,6 @@
 package com.test.automation.UiAutomation.homepage;
 
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
@@ -10,7 +11,8 @@ import com.test.automation.UiAutomation.UiActions.Homepage;
 
 public class TC002_RegisterNewUser extends TestBase
 {
-	Homepage hompage;
+	public static final Logger log=Logger.getLogger(TC002_RegisterNewUser.class.getName());
+			Homepage homepage;
 	@BeforeTest
 	public void setup()
 	{
@@ -24,10 +26,10 @@ public class TC002_RegisterNewUser extends TestBase
 		
 		log.info("====================Starting Test==============");
 		
-		hompage=new Homepage(driver);
-		hompage.NewUserRegistration("Rakesh.it@gmail.com", "Rakesh", "Nayak", "SWIFT@0467", "Rakesh", "Nayak", "Kondapur", "Hyderabad", "Indiana", "50008", "7218494792", "My New Address");
+		homepage=new Homepage(driver);
+		homepage.NewUserRegistration("Rakesh.it@gmail.com", "Rakesh", "Nayak", "SWIFT@0467", "Rakesh", "Nayak", "Kondapur", "Hyderabad", "Indiana", "50008", "7218494792", "My New Address");
 		Thread.sleep(10000);
-		Assert.assertEquals(hompage.NewUserRegisteredSuccessfully(),"MY ACCOUNT");
+		Assert.assertEquals(homepage.NewUserRegisteredSuccessfully(),"MY ACCOUNT");
 		
 		log.info("====================Test Ended==================");
 	}

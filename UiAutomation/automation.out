@@ -1,0 +1,196 @@
+2018-03-18 11:21:22 INFO  TestBase:27 - ====================Starting Test==============
+2018-03-18 11:21:27 INFO  TestBase:33 - ====================Test Ended==================
+2018-03-18 11:27:25 INFO  TestBase:27 - ====================Starting Test==============
+2018-03-18 11:27:29 INFO  TestBase:33 - ====================Test Ended==================
+2018-03-18 11:36:18 INFO  TestBase:27 - ====================Starting Test==============
+2018-03-18 11:36:21 INFO  Homepage:62 - Clicked in SignIn Button :[[FirefoxDriver: firefox on WINDOWS (733309e7-5c41-4522-9222-d68e1d88b84c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-18 11:36:21 INFO  Homepage:64 - Email Adress is entered :[[FirefoxDriver: firefox on WINDOWS (733309e7-5c41-4522-9222-d68e1d88b84c)] -> xpath: //*[@id='email']]
+2018-03-18 11:36:21 INFO  Homepage:66 - Password is entered :test
+2018-03-18 11:36:23 INFO  Homepage:68 - Clicked on Submit Button[[FirefoxDriver: firefox on WINDOWS (733309e7-5c41-4522-9222-d68e1d88b84c)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-18 11:36:23 INFO  Homepage:75 - Login Failed :Invalid Credentials
+2018-03-18 11:36:23 INFO  TestBase:33 - ====================Test Ended==================
+2018-03-18 11:39:32 INFO  TestBase:20 - ================Setting up for Testing==================
+2018-03-18 11:39:32 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 11:39:38 INFO  TestBase:29 - Navigating to Url
+2018-03-18 11:39:45 INFO  TestBase:27 - ====================Starting Test==============
+2018-03-18 11:39:48 INFO  Homepage:62 - Clicked in SignIn Button :[[FirefoxDriver: firefox on WINDOWS (dbb7520b-77bf-4615-8777-8360812dfa1f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-18 11:39:48 INFO  Homepage:64 - Email Adress is entered :[[FirefoxDriver: firefox on WINDOWS (dbb7520b-77bf-4615-8777-8360812dfa1f)] -> xpath: //*[@id='email']]
+2018-03-18 11:39:49 INFO  Homepage:66 - Password is entered :[[FirefoxDriver: firefox on WINDOWS (dbb7520b-77bf-4615-8777-8360812dfa1f)] -> xpath: //*[@id='passwd']]
+2018-03-18 11:39:50 INFO  Homepage:68 - Clicked on Submit Button[[FirefoxDriver: firefox on WINDOWS (dbb7520b-77bf-4615-8777-8360812dfa1f)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-18 11:39:50 INFO  Homepage:75 - Login Failed :Invalid Credentials
+2018-03-18 11:39:50 INFO  TestBase:33 - ====================Test Ended==================
+2018-03-18 12:53:04 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 12:54:29 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 12:54:32 INFO  Homepage:117 - New User email id Entered
+2018-03-18 12:54:32 INFO  Homepage:119 - Create button is clicked
+2018-03-18 12:54:34 INFO  Homepage:121 - Gender is selected
+2018-03-18 12:54:34 INFO  Homepage:124 - FirstName is entered
+2018-03-18 12:58:26 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 12:58:31 INFO  TestBase:29 - Navigating to Url
+2018-03-18 12:58:39 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 12:58:42 INFO  Homepage:117 - New User email id Entered
+2018-03-18 12:58:43 INFO  Homepage:119 - Create button is clicked
+2018-03-18 12:58:45 INFO  Homepage:121 - Gender is selected
+2018-03-18 12:58:45 INFO  Homepage:124 - FirstName is entered
+2018-03-18 12:58:45 INFO  Homepage:127 - LastName is entered
+2018-03-18 13:00:02 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:00:08 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:00:17 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:00:20 INFO  Homepage:117 - New User email id Entered
+2018-03-18 13:00:21 INFO  Homepage:119 - Create button is clicked
+2018-03-18 13:00:22 INFO  Homepage:121 - Gender is selected
+2018-03-18 13:00:22 INFO  Homepage:124 - FirstName is entered
+2018-03-18 13:00:23 INFO  Homepage:127 - LastName is entered
+2018-03-18 13:00:24 INFO  Homepage:136 - DOB is selected
+2018-03-18 13:00:25 INFO  Homepage:139 - Address section FirstName is entered
+2018-03-18 13:00:25 INFO  Homepage:142 - Address section LastName is entered
+2018-03-18 13:00:25 INFO  Homepage:145 - Address 1  is entered
+2018-03-18 13:00:25 INFO  Homepage:148 - Address city is entered
+2018-03-18 13:00:25 INFO  Homepage:151 - Address state is entered
+2018-03-18 13:00:25 INFO  Homepage:154 - Postal Code is entered
+2018-03-18 13:05:52 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:05:57 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:06:07 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:06:10 INFO  Homepage:117 - New User email id Entered
+2018-03-18 13:06:10 INFO  Homepage:119 - Create button is clicked
+2018-03-18 13:06:12 INFO  Homepage:121 - Gender is selected
+2018-03-18 13:06:12 INFO  Homepage:124 - FirstName is entered
+2018-03-18 13:06:12 INFO  Homepage:127 - LastName is entered
+2018-03-18 13:06:14 INFO  Homepage:136 - DOB is selected
+2018-03-18 13:06:14 INFO  Homepage:139 - Address section FirstName is entered
+2018-03-18 13:06:14 INFO  Homepage:142 - Address section LastName is entered
+2018-03-18 13:06:14 INFO  Homepage:145 - Address 1  is entered
+2018-03-18 13:06:14 INFO  Homepage:148 - Address city is entered
+2018-03-18 13:06:15 INFO  Homepage:151 - Address state is entered
+2018-03-18 13:06:15 INFO  Homepage:154 - Postal Code is entered
+2018-03-18 13:06:15 INFO  Homepage:157 - Address Country is entered
+2018-03-18 13:06:15 INFO  Homepage:160 - Mobile No  is entered
+2018-03-18 13:06:16 INFO  Homepage:163 - Address alias is entered
+2018-03-18 13:06:18 INFO  TestBase:31 - ====================Test Ended==================
+2018-03-18 13:06:55 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:07:00 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:07:07 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:07:10 INFO  Homepage:117 - New User email id Entered
+2018-03-18 13:07:11 INFO  Homepage:119 - Create button is clicked
+2018-03-18 13:07:12 INFO  Homepage:121 - Gender is selected
+2018-03-18 13:07:12 INFO  Homepage:124 - FirstName is entered
+2018-03-18 13:07:12 INFO  Homepage:127 - LastName is entered
+2018-03-18 13:07:14 INFO  Homepage:136 - DOB is selected
+2018-03-18 13:07:14 INFO  Homepage:139 - Address section FirstName is entered
+2018-03-18 13:07:15 INFO  Homepage:142 - Address section LastName is entered
+2018-03-18 13:07:15 INFO  Homepage:145 - Address 1  is entered
+2018-03-18 13:07:15 INFO  Homepage:148 - Address city is entered
+2018-03-18 13:07:15 INFO  Homepage:151 - Address state is entered
+2018-03-18 13:07:15 INFO  Homepage:154 - Postal Code is entered
+2018-03-18 13:07:16 INFO  Homepage:157 - Address Country is entered
+2018-03-18 13:07:16 INFO  Homepage:160 - Mobile No  is entered
+2018-03-18 13:07:16 INFO  Homepage:163 - Address alias is entered
+2018-03-18 13:07:28 INFO  TestBase:31 - ====================Test Ended==================
+2018-03-18 13:07:49 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:07:54 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:08:06 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:08:09 INFO  Homepage:117 - New User email id Entered
+2018-03-18 13:08:09 INFO  Homepage:119 - Create button is clicked
+2018-03-18 13:08:11 INFO  Homepage:121 - Gender is selected
+2018-03-18 13:08:11 INFO  Homepage:124 - FirstName is entered
+2018-03-18 13:08:11 INFO  Homepage:127 - LastName is entered
+2018-03-18 13:08:13 INFO  Homepage:136 - DOB is selected
+2018-03-18 13:08:13 INFO  Homepage:139 - Address section FirstName is entered
+2018-03-18 13:08:13 INFO  Homepage:142 - Address section LastName is entered
+2018-03-18 13:08:13 INFO  Homepage:145 - Address 1  is entered
+2018-03-18 13:08:13 INFO  Homepage:148 - Address city is entered
+2018-03-18 13:08:14 INFO  Homepage:151 - Address state is entered
+2018-03-18 13:08:14 INFO  Homepage:154 - Postal Code is entered
+2018-03-18 13:08:14 INFO  Homepage:157 - Address Country is entered
+2018-03-18 13:08:14 INFO  Homepage:160 - Mobile No  is entered
+2018-03-18 13:08:14 INFO  Homepage:163 - Address alias is entered
+2018-03-18 13:08:26 INFO  TestBase:31 - ====================Test Ended==================
+2018-03-18 13:08:54 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:08:59 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:09:15 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:09:17 INFO  Homepage:117 - New User email id Entered
+2018-03-18 13:09:18 INFO  Homepage:119 - Create button is clicked
+2018-03-18 13:09:19 INFO  Homepage:121 - Gender is selected
+2018-03-18 13:09:19 INFO  Homepage:124 - FirstName is entered
+2018-03-18 13:09:20 INFO  Homepage:127 - LastName is entered
+2018-03-18 13:09:21 INFO  Homepage:136 - DOB is selected
+2018-03-18 13:09:21 INFO  Homepage:139 - Address section FirstName is entered
+2018-03-18 13:09:22 INFO  Homepage:142 - Address section LastName is entered
+2018-03-18 13:09:22 INFO  Homepage:145 - Address 1  is entered
+2018-03-18 13:09:22 INFO  Homepage:148 - Address city is entered
+2018-03-18 13:09:22 INFO  Homepage:151 - Address state is entered
+2018-03-18 13:09:22 INFO  Homepage:154 - Postal Code is entered
+2018-03-18 13:09:23 INFO  Homepage:157 - Address Country is entered
+2018-03-18 13:09:23 INFO  Homepage:160 - Mobile No  is entered
+2018-03-18 13:09:23 INFO  Homepage:163 - Address alias is entered
+2018-03-18 13:09:35 INFO  TestBase:31 - ====================Test Ended==================
+2018-03-18 13:10:03 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:10:09 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:10:15 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:10:18 INFO  Homepage:117 - New User email id Entered
+2018-03-18 13:10:19 INFO  Homepage:119 - Create button is clicked
+2018-03-18 13:10:42 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:10:47 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:10:57 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:11:01 INFO  Homepage:117 - New User email id Entered
+2018-03-18 13:11:02 INFO  Homepage:119 - Create button is clicked
+2018-03-18 13:11:04 INFO  Homepage:121 - Gender is selected
+2018-03-18 13:11:04 INFO  Homepage:124 - FirstName is entered
+2018-03-18 13:11:04 INFO  Homepage:127 - LastName is entered
+2018-03-18 13:11:06 INFO  Homepage:136 - DOB is selected
+2018-03-18 13:11:06 INFO  Homepage:139 - Address section FirstName is entered
+2018-03-18 13:11:06 INFO  Homepage:142 - Address section LastName is entered
+2018-03-18 13:11:06 INFO  Homepage:145 - Address 1  is entered
+2018-03-18 13:11:06 INFO  Homepage:148 - Address city is entered
+2018-03-18 13:11:06 INFO  Homepage:151 - Address state is entered
+2018-03-18 13:11:06 INFO  Homepage:154 - Postal Code is entered
+2018-03-18 13:11:07 INFO  Homepage:157 - Address Country is entered
+2018-03-18 13:11:07 INFO  Homepage:160 - Mobile No  is entered
+2018-03-18 13:11:07 INFO  Homepage:163 - Address alias is entered
+2018-03-18 13:11:19 INFO  TestBase:31 - ====================Test Ended==================
+2018-03-18 13:22:16 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:22:22 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:22:41 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:23:02 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:23:09 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:23:16 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:23:18 INFO  Homepage:120 - New User email id Entered
+2018-03-18 13:23:19 INFO  Homepage:122 - Create button is clicked
+2018-03-18 13:23:20 INFO  Homepage:124 - Gender is selected
+2018-03-18 13:23:20 INFO  Homepage:127 - FirstName is entered
+2018-03-18 13:23:20 INFO  Homepage:130 - LastName is entered
+2018-03-18 13:23:22 INFO  Homepage:139 - DOB is selected
+2018-03-18 13:23:22 INFO  Homepage:142 - Address section FirstName is entered
+2018-03-18 13:23:22 INFO  Homepage:145 - Address section LastName is entered
+2018-03-18 13:23:23 INFO  Homepage:148 - Address 1  is entered
+2018-03-18 13:23:23 INFO  Homepage:151 - Address city is entered
+2018-03-18 13:23:23 INFO  Homepage:154 - Address state is entered
+2018-03-18 13:23:23 INFO  Homepage:157 - Postal Code is entered
+2018-03-18 13:23:23 INFO  Homepage:160 - Address Country is entered
+2018-03-18 13:23:24 INFO  Homepage:163 - Mobile No  is entered
+2018-03-18 13:23:24 INFO  Homepage:166 - Address alias is entered
+2018-03-18 13:23:36 INFO  Homepage:173 - New User Registered Successfully :[[FirefoxDriver: firefox on WINDOWS (651ae3c3-03ca-45cb-9066-d2e5959b642d)] -> xpath: //div[@id='center_column']/h1]
+2018-03-18 13:24:09 INFO  TestBase:41 - Creating Object Of Browser
+2018-03-18 13:24:14 INFO  TestBase:29 - Navigating to Url
+2018-03-18 13:24:24 INFO  TestBase:25 - ====================Starting Test==============
+2018-03-18 13:24:28 INFO  Homepage:120 - New User email id Entered
+2018-03-18 13:24:28 INFO  Homepage:122 - Create button is clicked
+2018-03-18 13:24:30 INFO  Homepage:124 - Gender is selected
+2018-03-18 13:24:30 INFO  Homepage:127 - FirstName is entered
+2018-03-18 13:24:30 INFO  Homepage:130 - LastName is entered
+2018-03-18 13:24:32 INFO  Homepage:139 - DOB is selected
+2018-03-18 13:24:32 INFO  Homepage:142 - Address section FirstName is entered
+2018-03-18 13:24:32 INFO  Homepage:145 - Address section LastName is entered
+2018-03-18 13:24:32 INFO  Homepage:148 - Address 1  is entered
+2018-03-18 13:24:33 INFO  Homepage:151 - Address city is entered
+2018-03-18 13:24:33 INFO  Homepage:154 - Address state is entered
+2018-03-18 13:24:33 INFO  Homepage:157 - Postal Code is entered
+2018-03-18 13:24:33 INFO  Homepage:160 - Address Country is entered
+2018-03-18 13:24:33 INFO  Homepage:163 - Mobile No  is entered
+2018-03-18 13:24:34 INFO  Homepage:166 - Address alias is entered
+2018-03-18 13:24:46 INFO  Homepage:173 - New User Registered Successfully :[[FirefoxDriver: firefox on WINDOWS (612b1f11-3917-498b-a4ca-f3cfaa2ab6e4)] -> xpath: //div[@id='center_column']/h1]
+2018-03-18 13:24:46 INFO  TestBase:32 - ====================Test Ended==================
+2018-03-18 18:05:13 INFO  Homepage:220 - Gmail User Logged in Successfully
+2018-03-18 18:16:29 INFO  Homepage:224 - Gmail User Logged in Successfully
+2018-03-18 18:16:36 INFO  Homepage:238 - User Logout from gmail
+2018-03-18 18:16:36 INFO  TC003_VerifyLoginWithDifferentData:49 - ===Fineshed Verify Login with Different user
